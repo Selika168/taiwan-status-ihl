@@ -85,3 +85,4 @@ Completeness: `complete` / `partial` (extract only) — see each meta.md. Some t
 | P88 | UN Declaration on the Rights of Indigenous Peoples, A/RES/61/295 | 2007-09-13 | complete | `P88_undrip/` text.md | https://documents.un.org/api/symbol/access?s=A/RES/61/295&l=en&t=pdf |
 | P89 | Martínez Cobo, Study of the Problem of Discrimination against Indigenous Populations, E/CN.4/Sub.2/1986/7/Add.4 | 1986 | partial | `P89_cobo-study/` text.md | https://documents.un.org/api/symbol/access?s=E/CN.4/Sub.2/1986/7/Add.4&l=en&t=pdf |
 | P90 | Indigenous Peoples Basic Law (ROC), as amended 2018 | 2018-06-20 | complete | `P90_indigenous-basic-law/`  | https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0130003 |
+| P91 | Wang Chun-nan, 'Essentials of the Law of Armed Conflict', Air Force Academic Bimonthly no. 640 (MND) | 2014-06 | partial (key passages in meta.md) | `P91_mnd-loac-2014/` | https://www.mnd.gov.tw/File/20936 |

@@ -26,6 +26,6 @@ Recorded on secondary sources or recollection; confirm against originals before 
 22. ICRC Customary IHL Study — rule numbers for occupation protections.
 23. ROC Implementation Act for the ICCPR and ICESCR (2009).
 24. Island of Palmas (1928); Western Sahara AO (1975) — add to sources.
-25. Whether ROC defence/foreign ministries have declared voluntary observance of the Geneva Conventions.
+25. ROC voluntary observance: MND doctrine found (P91, 2014). Still to find: a formal government declaration (MOFA / Executive Yuan) and the March 2006 MND card itself (《奮鬥月刊》no. 714, 2013, p. 67).
 26. Japanese-era household records for the aboriginal districts (蕃地/蕃社) — form, coverage, nationality position.
 27. Taiwan election law on peaceful advocacy of abstention; Red Cross Society Act penalties for emblem misuse.
