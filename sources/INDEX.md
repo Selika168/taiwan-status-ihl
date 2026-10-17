@@ -86,3 +86,4 @@ Completeness: `complete` / `partial` (extract only) — see each meta.md. Some t
 | P89 | Martínez Cobo, Study of the Problem of Discrimination against Indigenous Populations, E/CN.4/Sub.2/1986/7/Add.4 | 1986 | partial | `P89_cobo-study/` text.md | https://documents.un.org/api/symbol/access?s=E/CN.4/Sub.2/1986/7/Add.4&l=en&t=pdf |
 | P90 | Indigenous Peoples Basic Law (ROC), as amended 2018 | 2018-06-20 | complete | `P90_indigenous-basic-law/`  | https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0130003 |
 | P91 | Wang Chun-nan, 'Essentials of the Law of Armed Conflict', Air Force Academic Bimonthly no. 640 (MND) | 2014-06 | partial (key passages in meta.md) | `P91_mnd-loac-2014/` | https://www.mnd.gov.tw/File/20936 |
+| P92 | ROC Red Cross Society, call to domesticate the Geneva Conventions | 2023-10-18 | complete | `P92_roc-redcross-2023/` text_zh.md | https://www.redcross.org.tw/home.jsp?serno=201205070020&acttype=view&dataserno=202310180002 |

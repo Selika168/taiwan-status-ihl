@@ -10,7 +10,7 @@ sources:
     sha256: b158dd9135143e4bb24ab511c778e223e2621f9e7f83ee8d2907395cf5ad9d3b
 ---
 
-Nature: an article by a serving officer (LOAC instructor) in an MND service journal, published on mnd.gov.tw — evidence of MND doctrine and education, not a formal governmental declaration.
+Nature: an article by a serving officer (LOAC instructor) in an MND service journal, published on mnd.gov.tw as MND military-education course material — evidence of MND doctrine and education, not a formal governmental declaration.
 
 Key passages (reconstructed from the two-column layout; check against the PDF):
 - 「絕大多數國家都已簽署「武裝衝突法」的條約，這些條約已由其多邊立法性而形成國際習慣法，對於非締約國亦具有強制的拘束效力；因此，我國雖未簽署「武裝衝突法」的條約，也須受其約束而遵行。」(n. 29)

@@ -29,3 +29,5 @@ Recorded on secondary sources or recollection; confirm against originals before 
 25. ROC voluntary observance: MND doctrine found (P91, 2014). Still to find: a formal government declaration (MOFA / Executive Yuan) and the March 2006 MND card itself (《奮鬥月刊》no. 714, 2013, p. 67).
 26. Japanese-era household records for the aboriginal districts (蕃地/蕃社) — form, coverage, nationality position.
 27. Taiwan election law on peaceful advocacy of abstention; Red Cross Society Act penalties for emblem misuse.
+28. Text of MND 「國防部國際人道法國內法化推動小組設置要點」 (2015-01-30) and minutes of its 2015–16 meetings.
+29. Nuclear Tests (1974) paras 43–46 on binding unilateral declarations — add to sources.
