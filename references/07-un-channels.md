@@ -16,6 +16,12 @@
 - Membership cards: list positively what they attest, and word protected-person status as the holder's **claim** under GC IV Arts. 4 and 47 (see SKILL.md hard rule on emblems). Offer a signed reservation (05, "Daily-life acts are not allegiance").
 - Ask the administering authority to declare de facto application of GC IV (route R4 in 05).
 
+## Documenting violations (no individual GC IV complaint mechanism exists)
+- Asking the authority whether it implements the Conventions, or an FOI request, tends to yield "in process" — little use. Build a verified evidence file instead, feeding human-rights forums, the ICRC and States.
+- Principles: record, never resist (never advise refusing service or tax); first-hand documented facts only; tag each incident on two layers — occupation-law claim (contested) and human-rights law (applies regardless); written consent per use; hash files on intake, keep chain of custody (OHCHR Manual on Human Rights Monitoring; Berkeley Protocol 2022).
+- Most documentable ongoing category: compulsory military service of persons claiming protected status (GC IV Art. 51) — each call-up notice is a dated official record. Others: nationality imposed without option (Hague 45, GC IV 47; ICCPR 24(3), 26); measures against persons for asserting status (GC IV 27, 31, 33; ICCPR 19, 21, 22); property (Hague 46, 53; GC IV 53); records (GC IV 47); denial of option; non-domestication and no substitute Protecting Power (GC IV 9, 11, 144).
+- Policy ask when domestication comes (external military pressure makes it likely): all four Conventions and the Protocols in full, without carving out the GC IV occupation provisions (Arts. 4, 6(3), 47–78).
+
 ## For Austronesian Indigenous Peoples' Organizations (IPOs)
 - PFII: IPOs need **no** ECOSOC status; first-time accreditation via the iCSO form (mission, structure, focal point), then session registration in Indico; pre-registration typically Jan–Feb, closing 2–4 weeks before the April session (social.desa.un.org).
 - Also EMRIP, UN Voluntary Fund for Indigenous Peoples, SR on the rights of Indigenous Peoples.
