@@ -9,6 +9,13 @@
 | 4 | ECOSOC consultative status | typically ≥2 years' existence, financial statements [verify] | NGO Committee includes China; deferrals common; once granted → attend PFII as NGO and HRC |
 | 5 | GA request for an ICJ advisory opinion | a Member State sponsor | Chagos model (GA res. 71/292 → AO 2019) |
 
+## Design notes for a membership body of the people of the territory
+- **Critical date: 2 Sep 1945** (Instrument of Surrender; start of occupation), not 25 Oct 1945. Births clause to 28 Apr 1952 (SFPT in force). Include Austronesian members who qualify, with aboriginal-district household records as evidence [verify their form], without determining anyone's indigenous status; catch-all category for residents before the date without a Formosa register and for later arrivals.
+- Frame categories as **legal status** (nationality at the start of occupation; GC IV Art. 4; descendants by nationality law), never ethnicity; add "time of arrival" to non-discrimination; never invoke GC IV Art. 49(6) against post-1945 arrivals.
+- Local association law may require equal member rights (e.g. Taiwan's Civil Associations Act Art. 16: "會員有表決權、選舉權、被選舉權與罷免權。每一會員為一權"; Art. 14 and 27: expulsion only by the general assembly with 2/3; Art. 26: extraordinary assembly on one day's notice; Art. 8: ≥30 adult founders; former Art. 2 deleted after J.Y. Interpretation No. 644). Do not restrict board eligibility by category; place the claim-specific work (cards, protected-person claim, UN statements) in an internal committee composed of the qualifying members.
+- Membership cards: list positively what they attest, and word protected-person status as the holder's **claim** under GC IV Arts. 4 and 47 (see SKILL.md hard rule on emblems). Offer a signed reservation (05, "Daily-life acts are not allegiance").
+- Ask the administering authority to declare de facto application of GC IV (route R4 in 05).
+
 ## For Austronesian Indigenous Peoples' Organizations (IPOs)
 - PFII: IPOs need **no** ECOSOC status; first-time accreditation via the iCSO form (mission, structure, focal point), then session registration in Indico; pre-registration typically Jan–Feb, closing 2–4 weeks before the April session (social.desa.un.org).
 - Also EMRIP, UN Voluntary Fund for Indigenous Peoples, SR on the rights of Indigenous Peoples.

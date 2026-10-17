@@ -5,6 +5,12 @@
 - Eden 1955 (P75): taken over "at the direction of the Supreme Commander of the Allied Powers; but this was not a cession, nor did it in itself involve any change of sovereignty. The arrangements made with Chiang Kai-shek put him there on a basis of military occupation pending further arrangements, and did not of themselves constitute the territory Chinese."
 - Senator Holland, 1955 (P49): "the Republic of China, now occupying that area".
 
+## Start date
+- The occupation began on **2 Sep 1945** with the Instrument of Surrender (P32), which bound "the Emperor, the Japanese Government and their successors" to carry out Potsdam para. 8 ("Japanese sovereignty shall be limited to the islands of Honshu, Hokkaido, Kyushu, Shikoku and such minor islands as we determine"); the Tokyo District Court dated the loss of nationality to the surrender (P50). 25 Oct 1945 is the ROC's own "retrocession" date; adopting it as a critical date silently adopts the ROC's narrative.
+
+## Not prescription
+- An occupant's possession is precarious (held for the Allies under GO1), like a lessee's — it cannot ripen into title however long (cf. the New Territories of Hong Kong: leased 1898 for 99 years, returned 1997). Prescription also needs a prior sovereign who acquiesces (none: Japan renounced) and no protest (the PRC protests; inhabitants' recorded reservations count as non-acquiescence). Since 1960 a populated territory cannot be acquired against its people's will (Chagos para. 160). The ROC itself claims retrocession, not prescription. Island of Palmas (1928) criteria [verify].
+
 ## Occupation law
 - Hague Regulations 1907 (P09) Art. 42 (occupation is factual), Art. 43 (respect the laws in force "unless absolutely prevented"), Art. 45 ("It is forbidden to compel the inhabitants of occupied territory to swear allegiance to the hostile Power."), Arts. 48–49 (occupant may collect taxes).
 - Pictet (1958) Art. 47 p. 275: occupation "deprives the occupied Power of neither its statehood nor its sovereignty … cannot imply any right whatsoever to dispose of territory … A decision on that point can only be reached in the peace treaty. That is a universally recognized rule"; WWII "anticipated annexation" criticised.

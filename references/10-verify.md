@@ -19,3 +19,13 @@ Recorded on secondary sources or recollection; confirm against originals before 
 15. *Gillot v. France* (HRC 2002).
 16. Crawford on why Taiwan is not treated as a State.
 17. Japan's ICCPR (1979) and ICERD (1995) dates; HRC resolutions on arbitrary deprivation of nationality (e.g. 20/5, 32/5).
+18. China's declaration of war on Japan, 9 Dec 1941 — primary text.
+19. Pictet on GC IV Art. 2 — does a state of war without hostilities (1957–72 on the PRC's view) count as "declared war"?
+20. China's accession to AP I and AP II (date, c. 1983).
+21. Wall AO paras 89 (Hague Regs. customary) and 106–111 (human-rights law in occupied territory) — add to sources.
+22. ICRC Customary IHL Study — rule numbers for occupation protections.
+23. ROC Implementation Act for the ICCPR and ICESCR (2009).
+24. Island of Palmas (1928); Western Sahara AO (1975) — add to sources.
+25. Whether ROC defence/foreign ministries have declared voluntary observance of the Geneva Conventions.
+26. Japanese-era household records for the aboriginal districts (蕃地/蕃社) — form, coverage, nationality position.
+27. Taiwan election law on peaceful advocacy of abstention; Red Cross Society Act penalties for emblem misuse.
