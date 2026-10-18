@@ -1,6 +1,7 @@
 # 04 — Close reading: SFPT, Treaty of Taipei, MDT, 1972 instruments
 
 ## SFPT (P04; authentic: English, French, Spanish, Japanese)
+- **Art. 1(a)** "The state of war between Japan and each of the Allied Powers is terminated as from the date on which the present Treaty comes into force between Japan and the Allied Power concerned" — the war ended in law on **28 Apr 1952** (entry into force), not in 1945. 1945 = surrender and cessation of hostilities (P32). So 1945–52 was belligerent occupation during a continuing state of war, and no change of territory or nationality could be final before the treaty (Pictet p. 275).
 - **Art. 2(a)** "Japan, recognizing the independence of Korea, renounces …" — participial phrase of attendant circumstance, not a condition; recognizes *independence*. **Art. 2(b)** renounces Formosa and the Pescadores — **no recipient**. The asymmetry (recipient for Korea, none for Taiwan) is the textual core.
 - **Art. 3** (Ryukyus etc.): no renunciation; US administration; Japan's "residual sovereignty" (Dulles 1951). Hence Okinawa could revert; Taiwan (Art. 2) has no residue — this is why *Lin v. US* (P60, P61) could not answer "occupied territory of whom?".
 - **Art. 14(a)2**: Allied right to seize Japanese property "subject to its **jurisdiction**" — jurisdiction, not sovereignty.
