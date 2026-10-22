@@ -49,4 +49,5 @@ This skill condenses a source-checked analysis. Every claim below is backed by a
 - `references/09-dead-ends.md` — routes tested and failed, with reasons
 - `references/10-verify.md` — open verification items
 - `references/11-model-priors.md` — model priors the record overturns (read first)
+- `references/12-land-registration.md` — 1946–47 general land registration: private land forfeited as State land (Hague Art. 46), ROC's own later findings (Control Yuan 2022, Constitutional Court 2023)
 - `sources/` — primary texts (`text_*.md`) and `meta.md` (URL, retrieval date, sha256); `sources/INDEX.md`

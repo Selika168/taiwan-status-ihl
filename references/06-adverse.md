@@ -17,4 +17,5 @@
 | GC IV not in force in 1945–50; Res. 1514 only from 1960 | P11, P73 | Use customary Hague law for 1945–52; "continuing character" (Chagos para. 177) bridges time |
 | Taiwan is not on the NSGT list; no administering Member exists; China sits on C-24 | P81, P83 | Listing is not a precondition of self-determination (erga omnes; GA acted without Portugal in Res. 1542); still needs a sponsoring Member |
 | UNDRIP Art. 46(1) territorial integrity of sovereign States | P88 | Presupposes settled sovereignty; Taiwan's is undetermined (SFPT 2(b); Eden 1955) |
+| Land forfeitures of 1946–47 now have domestic redress (Constitutional Court 2023), so no international issue | P95, P96, P94 | Redress is partial: suits one family at a time, records lost since 1945 bar claims, Nat. Property Act Art. 52-2 is a sale not restitution; partial redress confirms the wrong (ICCPR 2(3)) — see 12 |
 | "Rights come from sovereignty/nationality" | — | Post-1945 law detaches core rights from nationality (UDHR 2, 15; ICCPR 2(1)); Arendt's "right to have rights"; if rights depended on recognised sovereignty, whoever controls recognition could declare others rightless |

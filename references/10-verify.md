@@ -31,3 +31,5 @@ Recorded on secondary sources or recollection; confirm against originals before 
 27. Taiwan election law on peaceful advocacy of abstention; Red Cross Society Act penalties for emblem misuse.
 28. Text of MND 「國防部國際人道法國內法化推動小組設置要點」 (2015-01-30) and minutes of its 2015–16 meetings.
 29. Nuclear Tests (1974) paras 43–46 on binding unilateral declarations — add to sources.
+30. Land registration (12): primary texts of the 1898 cadastral/survey rules and the 1905 Taiwan Land Registration Rules, and the court-registry structure (P93 is secondary); full text of the 1946-04-05 notice (卯微卅五署民字第2896號) and of the 1947 measure Art. 14 from the Governor-General's Office Gazette; full judgment of 112-Hsien-Pan-20 (P95 holds the summary); total area of private land registered as State land under Art. 14.
+31. 228 victims in the judiciary and bar (吳鴻麒, 李瑞漢, 林桂端, 林連宗) — confirm against the 228 Memorial Foundation records.
