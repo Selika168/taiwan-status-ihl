@@ -1,7 +1,7 @@
 # 03 — Origin and character of the ROC presence in Taiwan
 
 ## Entry: acceptance of surrender for the Allies
-- General Order No. 1 (P33): Japanese forces in Formosa (and in French Indochina north of 16°N) surrender to Chiang Kai-shek on behalf of the Allied Powers. ROC forces withdrew from northern Indochina in 1946 (Sino-French agreement) — same legal basis, no claim of title there.
+- General Order No. 1 (P33): Japanese forces in Formosa (and in French Indochina north of 16°N) surrender to Chiang Kai-shek on behalf of the Allied Powers. ROC forces withdrew from northern Indochina in 1946: by the Sino-French exchange of notes of 1946-02-28 the French command took over north of 16°N and Chinese forces were to withdraw "not later than, March 31, 1946" (P101) — same legal basis, no claim of title there.
 - Eden 1955 (P75): taken over "at the direction of the Supreme Commander of the Allied Powers; but this was not a cession, nor did it in itself involve any change of sovereignty. The arrangements made with Chiang Kai-shek put him there on a basis of military occupation pending further arrangements, and did not of themselves constitute the territory Chinese."
 - Senator Holland, 1955 (P49): "the Republic of China, now occupying that area".
 
