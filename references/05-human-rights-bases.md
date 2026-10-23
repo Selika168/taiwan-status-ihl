@@ -3,7 +3,7 @@
 ## Core fact: no option of nationality was ever given
 | Date | Act | Option |
 |---|---|---|
-| 1895 | Shimonoseki Art. 5 | yes (2 years) |
+| 1895 | Shimonoseki Art. 5 (P98) | yes (2 years, to 1897-05-08) |
 | Dec 1945 | Election Law amendment suspends franchise of 外地 register holders [verify article] | none |
 | 1947-05-02 | Alien Registration Ordinance (Imperial Ordinance No. 207) deems Formosans aliens "for the time being" — one day before the popular-sovereignty Constitution | none |
 | 1946-01-12 | ROC order (occupant) confers nationality | none in Taiwan; abroad yes |

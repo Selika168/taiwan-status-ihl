@@ -4,7 +4,7 @@ Each link: what the text says → what it proves → limits. `Pxx` = folder in `
 
 | # | Date | Instrument | Text (quote) | Proves | Limits |
 |---|---|---|---|---|---|
-| L1 | 1895 | Treaty of Shimonoseki Art. 5 | two-year period to sell property and leave; those remaining may be deemed Japanese subjects | cession **with an option of nationality**; Japan's own practice | no general rule that every transfer must give an option |
+| L1 | 1895 | Treaty of Shimonoseki Arts. 2(b), 5 (P98) | Art. 2 "China cedes to Japan in perpetuity and full sovereignty"; Art. 5 two years to sell property and leave, after which those remaining "shall, at the option of Japan, be deemed to be Japanese subjects" | cession **with an option of nationality**; Japan's own practice | no general rule that every transfer must give an option |
 | L2 | 1943 | Cairo Declaration (P28) | "Formosa, and the Pescadores, shall be restored to the Republic of China" | statement of intent | unsigned communiqué; Eden 1955: "a statement of intention" |
 | L3 | 1945-07 / 09-02 | Potsdam para. 8 (P30); Instrument of Surrender (P32) | "The terms of the Cairo Declaration shall be carried out"; Japan undertakes "to carry out the provisions of the Potsdam Declaration in good faith" | binding undertaking of Japan; **surrender = cessation of hostilities, not end of the war** | an undertaking to act, not a cession; final disposition left to a peace treaty; the state of war continued until 1952-04-28 (L10) |
 | L4 | 1945-09 | General Order No. 1 (P33) | Japanese forces in Formosa surrender to Chiang Kai-shek **for the Allied Powers** | ROC entry = acceptance of surrender on behalf of the Allies | — |
