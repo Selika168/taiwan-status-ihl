@@ -59,3 +59,10 @@ See `08-indigenous.md`.
 | Korea | none | SFPT 21, 25 |
 | **The inhabitants** | **self-determination; the option never given** | Chagos; Charter 1(2); occupation law |
 A self-determination outcome fulfils, not usurps, the Allied power to settle the status.
+
+## Courts: the right to a lawful trial, 1895 → 1945 → occupation law
+- **Before courts (1895-05-08 to 1896-03-31, military government):** civil cases decided by the county 內務部, criminal cases by the county 警察部 (P100).
+- **1896:** 臺灣總督府法院條例, 律令第一號, 1896-05-01 (P100); the courts, 「專掌司法審判權」, operated from 1896-07-15 (P99). Three levels (地方、覆審、高等); the 覆審法院 was the last instance for civil and criminal cases in the early period (P99, P100). From then on, inhabitants' cases were decided by courts, not by administrative organs.
+- **Limits (state them, for fairness):** the Governor-General supervised judicial administration and initiated discipline of judges (P99); Chief Judge Takano was dismissed in 1897 while trying a corruption case against senior officials (P99, P100); political cases went to the single-instance 臨時法院 under the 匪徒刑罰令 (P100). The 1919 reforms removed the Governor-General's power to suspend judges and abolished the 臨時法院 (P100).
+- **Why it matters under occupation law:** from 1945 the occupant must respect "unless absolutely prevented, the laws in force in the country" (Hague Regs. Art. 43, P09); GC IV Art. 64 "the tribunals of the occupied territory shall continue to function", Art. 54 "The Occupying Power may not alter the status of public officials or judges" (P11; GC IV in force from 1950, so for 1945–50 argue from Art. 43 and custom). What happened to these courts after 1945 is to be documented separately [open: sources on the 1945–46 court takeover].
+- A court system that decides inhabitants' cases is evidence of how the territory was governed. It does not by itself decide who holds sovereignty.
