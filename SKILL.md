@@ -30,7 +30,7 @@ This skill condenses a source-checked analysis. Every claim below is backed by a
 - Dates: **2 Sep 1945 = surrender** (start of occupation); **28 Apr 1952 = end of the state of war** (SFPT Art. 1(a)). Never call 1945 "the end of the war"; "post-war" means after 1952.
 - Never claim a treaty transferred Taiwan to the ROC or PRC; never claim Taiwan still belongs to Japan or to Korea.
 - Never present an NGO declaration, a self-proclaimed government, or an iCSO registration as UN recognition.
-- Do not advise refusing taxes (Hague Regs. 48–49 allow an occupant to tax).
+- Do not advise refusing taxes (no legal effect; personal legal risk).
 - "Not support independence" ≠ "oppose" ≠ prohibition (Clinton 1998; Bush 2003 opposes *unilateral change by either side*).
 - Original nationality ≠ ancestry: a register entry 「福」/「廣」 is a father's-line administrative classification, not proof of Chinese origin or nationality.
 - Cards, flags and documents of civil-society groups: list positively what they attest (membership, category, evidence source, the holder's *claim* of protected-person status). Never put the red cross, red crescent, red crystal or other distinctive signs protected by the Geneva Conventions, Additional Protocols or the 1954 Hague Convention (blue shield) on them. If a user proposes to use such an emblem, warn before drafting: use is reserved to the medical services, the components of the Movement and protected sites (GC I Arts. 38, 44, 53; AP I Arts. 18, 38, 66); misuse may be penalised under domestic law and, in armed conflict, perfidious use is prohibited (AP I Art. 37). A national or military flag (any State's) is not a protective sign under these Conventions.
